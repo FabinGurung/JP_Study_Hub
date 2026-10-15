@@ -10,3 +10,7 @@ Never treat this public repository as the private A9 Main Library. Keep research
 A9 historical private governance remains binding until explicitly reconciled and safely migrated. Do not invent completion, copy private data or tokens into public GitHub, or silently bypass project-specific rules.
 
 This file is an agent instruction pointer; it does not change ChatGPT's account-wide/system instructions or guarantee a particular client auto-loads it.
+
+## A7 is a READ-ONLY CATALOGUE for this repository
+
+Treat the A7 system registry as a read-only metadata directory and knowledge-graph pointer index for this module. **NEVER write A7 files, branches, PRs, website code, schema/policy templates, catalogue rows or histories during this repository's tasks.** A module task is not authorization for A7 work, even if its link appears stale. Create a local pending pointer-correction note and request a **separate explicit A7-specific instruction**. Actual execution logic, internal schemas, templates, publishing and version history belong in this repository and its declared owner providers. The historical A7-hosted AI-Aided Design guidance is not the CAD template authority; CAD's versioned canonical template lives at `FabinGurung/JP_Computer-Aided-Drawings/governance/aad/aad-domain-template.v0.1.json`. Do not modify CAD unless that separate domain is tasked. Preserve all existing governance, privacy and branch rules above.
